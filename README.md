@@ -1,5 +1,7 @@
 # React AlloyTouch
 
+注意： 该包已迁移到 https://github.com/joy-web/react-alloytouch 请到这里查看最新代码或提出 issue，谢谢配合
+
 This is a react component for AlloyTouch.
 
 ## Install
